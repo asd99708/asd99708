@@ -4,9 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=2A12A9&width=700&lines=Welcome.+This+is+Cookpie's+GitHub)](https://git.io/typing-svg)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asd99708&theme=dark)
+  [![Solved.ac
+  asd99708](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd99708&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=asd99708&show_icons=true">
+
 
 **asd99708/asd99708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
