@@ -1,5 +1,7 @@
-### Hi there 👋
+<div align="center">
+<br><br><br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=2A12A9&width=435&lines=Welcome.+This+is+Cookpie's+GitHub)](https://git.io/typing-svg)
 <!--
 **asd99708/asd99708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
